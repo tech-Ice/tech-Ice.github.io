@@ -22,6 +22,6 @@
     </ul>
     <li> Experimental and Observational Researcher, Academic Writing (Chicago, APA, MLA & Harvard</li>
     </ul>
-    <p><a href="Patrick Kisio Resume">Download CV (PDF)</a></p>
+    <p><a href="Patrick Kisio CV">Download CV (PDF)</a></p>
 </body>
 </html>
